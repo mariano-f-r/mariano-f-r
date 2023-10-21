@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hello there!
 
+I am Mariano Rodriguez, a developer from the United States.
+
+- I'm currently working on my WebSocket chat app, chatter, and would be happy to collaborate on it.
+- I've been learning how to program in Rust
+- You can reach me via Discord if need be, my username is sergeant_savage
+
+[![An image of @sergeantsavage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sergeantsavage)](https://holopin.io/@sergeantsavage)
 <!--
 **sergeant-savage/sergeant-savage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
