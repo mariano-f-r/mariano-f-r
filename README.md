@@ -1,9 +1,11 @@
-# Hello there!
+# 👋🏽 Hello there!
 
 I am Mariano Rodriguez, a developer from the United States.
+I develop primarily as a hobby. 
+My technical range is fairly broad, and I love to tinker with new technologies.
 
-- I've been learning how to program in Rust
-- You can reach me via Discord if need be, my username is sergeant_savage
+# 🌎 Connect with Me
+
 
 [![An image of @sergeantsavage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sergeantsavage)](https://holopin.io/@sergeantsavage)
 <!--
@@ -20,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeant-savage&theme=github_dark" alt="Mariano's GitHub Stats"/>
+</div>
