@@ -2,9 +2,23 @@
 
 I am Mariano Rodriguez, a developer from the United States.
 I develop primarily as a hobby. 
-My technical range is fairly broad, and I love to tinker with new technologies.
+My technical range is fairly broad, and I love to tinker with technologies.
 
 # 🌎 Connect with Me
+
+You can reach me through the following means:
+<div align="center">
+    <a href="www.linkedin.com/in/mariano-rodriguez-1b1295243">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="My Discord is sergeant_savage"/>
+    <a href="mailto:amr001.us@proton.me">
+        <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" alt="Proton Mail"/>
+    </a>
+    <a href="https://www.youtube.com/@marianorodriguez9257">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
+    </a>
+</div>
 
 
 [![An image of @sergeantsavage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sergeantsavage)](https://holopin.io/@sergeantsavage)
