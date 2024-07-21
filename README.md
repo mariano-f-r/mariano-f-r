@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergeant-savage&theme=gruvbox" alt="Mariano's GitHub Stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergeant-savage&theme=gruvbox" alt="Mariano's GitHub Stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeant-savage&theme=gruvbox" alt="Mariano's GitHub Stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sergeant-savage&theme=gruvbox&utcOffset=8" alt="Mariano's GitHub Stats"/>
 </div>
