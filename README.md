@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeant-savage&theme=github_dark" alt="Mariano's GitHub Stats"/>
-</div>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeant-savage&theme=gruvbox)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergeant-savage&theme=gruvbox)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergeant-savage&theme=gruvbox)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeant-savage&theme=gruvbox) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sergeant-savage&theme=gruvbox&utcOffset=8)
