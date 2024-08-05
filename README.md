@@ -1,8 +1,9 @@
 # 👋🏽 Hello there!
 
 I am Mariano Rodriguez, a developer from the United States.
-I develop primarily as a hobby. 
+I develop as a hobby for the most part.
 My technical range is fairly broad, and I love to tinker with technologies.
+Enjoying working with Rust right now.
 
 # 🌎 Connect with Me
 
