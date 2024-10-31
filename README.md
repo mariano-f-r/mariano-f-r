@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeant-savage&theme=gruvbox" alt="Mariano's GitHub Stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariano-f-r&theme=gruvbox" alt="Mariano's GitHub Stats"/>
 </div>
 
 <div align="center">
