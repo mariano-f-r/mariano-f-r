@@ -48,3 +48,5 @@ Here are some ideas to get you started:
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariano-f-r&theme=gruvbox" alt="Mariano's GitHub Stats"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mariano-f-r&theme=gruvbox&utcOffset=-5" alt="Mariano's GitHub Stats"/>
 </div>
+
+[![Mariano's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariano-f-r)](https://github.com/mariano-f-r/github-readme-stats)
