@@ -16,9 +16,6 @@ You can reach me through the following means:
     <a href="mailto:amr001.us@proton.me">
         <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" alt="Proton Mail"/>
     </a>
-    <a href="https://www.youtube.com/@marianorodriguez9257">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
-    </a>
 </div>
 
 <br>
